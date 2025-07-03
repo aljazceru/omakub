@@ -12,6 +12,16 @@ Please help us improve Omakub's documentation on the [basecamp/omakub-site repos
 
 Omakub is released under the [MIT License](https://opensource.org/licenses/MIT).
 
+## Included Applications and Customization
+
+Omakub now offers an even broader selection of pre-configured applications and enhanced customization options. Recent updates include:
+
+-   **Removed Applications:** HEY, Basecamp, Activity, and WhatsApp.
+-   **New Additions:** uv, nvm, KeepassXC, Syncthing, FFmpeg, fd-find, htop, Solaar, Thunderbird, Thorium, and Firefox.
+-   **Browser Change:** Google Chrome has been replaced with Chromium.
+
+These changes aim to provide a more flexible and comprehensive setup experience.
+
 ## Extras
 
 While omakub is purposed to be an opinionated take, the open source community offers alternative customization, add-ons, extras, that you can use to adjust, replace or enrich your experience.

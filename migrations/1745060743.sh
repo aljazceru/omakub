@@ -4,7 +4,6 @@ cp ~/.local/share/omakub/configs/alacritty/btop.toml ~/.config/alacritty/btop.to
 cp ~/.local/share/omakub/configs/alacritty.toml ~/.config/alacritty/alacritty.toml
 
 source $OMAKUB_PATH/applications/About.sh
-source $OMAKUB_PATH/applications/Activity.sh
 source $OMAKUB_PATH/applications/Neovim.sh
 source $OMAKUB_PATH/applications/Docker.sh
 source $OMAKUB_PATH/applications/Omakub.sh

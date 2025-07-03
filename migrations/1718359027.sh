@@ -46,13 +46,9 @@ source $OMAKUB_PATH/install/terminal/apps-terminal.sh
 # Add new desktop applications icons
 source $OMAKUB_PATH/applications/Omakub.sh
 source $OMAKUB_PATH/applications/About.sh
-source $OMAKUB_PATH/applications/Activity.sh
 source $OMAKUB_PATH/applications/Docker.sh
 
 # Update icons of apps still installed
-[ -f ~/.local/share/applications/Basecamp.desktop ] && source $OMAKUB_PATH/applications/Basecamp.sh
-[ -f ~/.local/share/applications/HEY.desktop ] && source $OMAKUB_PATH/applications/HEY.sh
-[ -f ~/.local/share/applications/WhatsApp.desktop ] && source $OMAKUB_PATH/applications/WhatsApp.sh
 
 # Set new app grid
 source $OMAKUB_PATH/install/desktop/set-app-grid.sh
